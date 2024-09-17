@@ -8,3 +8,6 @@ langchain_community
 chromadb
 langchain-groq
 awscli
+pypdf
+faiss-cpu
+langchain_aws
