@@ -11,3 +11,6 @@ awscli
 pypdf
 faiss-cpu
 langchain_aws
+
+
+-e.
