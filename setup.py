@@ -8,3 +8,4 @@ setup(
     packages=find_packages(),
     install_requires=["langchain","langchainhub","bs4","tiktoken","openai","boto3==1.34.37","langchain_community","chromadb","langchain-groq","awscli","pypdf","faiss-cpu","langchain_aws"],
 )
+# hei
