@@ -35,4 +35,4 @@ RUN pip install streamlit
 EXPOSE 8501
 
 # Command to run your streamlit app
-CMD ["streamlit", "run", "your_app.py", "--server.port", "8080"]
+CMD ["streamlit", "run", "app.py", "--server.port", "8080"]
